@@ -63,15 +63,15 @@ Project Link: [https://github.com/marcosaraujo-dev/CGS.ToDo](https://github.com/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/marcosaraujo-dev/DevEmDobro.svg?style=for-the-badge
-[contributors-url]: https://github.com/marcosaraujo-dev/DevEmDobro/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/marcosaraujo-dev/DevEmDobro.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/marcosaraujo-dev/html.svg?style=for-the-badge
+[contributors-url]: https://github.com/marcosaraujo-dev/html/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/marcosaraujo-dev/html.svg?style=for-the-badge
 [forks-url]: https://github.com/marcosaraujo-dev/DevEmDobro/network/members
-[stars-shield]: https://img.shields.io/github/stars/marcosaraujo-dev/DevEmDobro.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/marcosaraujo-dev/html.svg?style=for-the-badge
 [stars-url]: https://github.com/marcosaraujo-dev/DevEmDobro/stargazers
-[issues-shield]: https://img.shields.io/github/issues/marcosaraujo-dev/DevEmDobro.svg?style=for-the-badge
-[issues-url]: https://github.com/marcosaraujo-dev/DevEmDobro/issues
-[license-shield]: https://img.shields.io/github/license/marcosaraujo-dev/DevEmDobro.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/marcosaraujo-dev/html.svg?style=for-the-badge
+[issues-url]: https://github.com/marcosaraujo-dev/html/issues
+[license-shield]: https://img.shields.io/github/license/marcosaraujo-dev/html.svg?style=for-the-badge
 [license-url]: https://github.com/marcosaraujo-dev/DevEmDobro/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/marcosaraujosouza/
